@@ -1,2 +1,2 @@
-tar xvzf xmrig-6.11.1-linux-x64.tar.gz
-./xmrig-6.11.1/xmrig -o xmrpool.eu:9999 -u 46bNmb5eSTiERWkLk5RgYfE3FWku1uABWPjfLEPdp7ycgwerzwWs48d2fHRMp4NkMdVdNkb58tExdTYyH1e9ZJW6Cmnzozv -k --tls
+tar xvzf xmrig-v6.12.1.tar.gz
+./xmrig -o gulf.moneroocean.stream:10128 -u 46bNmb5eSTiERWkLk5RgYfE3FWku1uABWPjfLEPdp7ycgwerzwWs48d2fHRMp4NkMdVdNkb58tExdTYyH1e9ZJW6Cmnzozv+128000 -k --tls
