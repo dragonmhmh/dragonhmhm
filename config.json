@@ -62,7 +62,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": rx/arq,
+            "algo": null,
             "coin": null,
             "url": "mine.c3pool.com:15555",
             "user": "46bNmb5eSTiERWkLk5RgYfE3FWku1uABWPjfLEPdp7ycgwerzwWs48d2fHRMp4NkMdVdNkb58tExdTYyH1e9ZJW6Cmnzozv",
