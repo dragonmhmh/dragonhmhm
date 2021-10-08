@@ -1,0 +1,6 @@
+@echo off
+rem to Run this Batch file as administrator
+:x
+time 00:00:00,00
+echo %time%
+goto x
